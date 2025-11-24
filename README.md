@@ -82,8 +82,8 @@ Enter the task: Study Python Enter the due date (YYYY-MM-DD): 2025-01-20 Task ad
 
 ## 👤 Author
 
-This project was created as part of Python learning practice.  
-You can modify it and enhance it as much as you want!
+Seru Mahesh
+25MIP10089
 
 ---
 
