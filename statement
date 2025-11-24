@@ -1,0 +1,44 @@
+PROJECT STATEMENT – TO-DO LIST APPLICATION (PYTHON)
+
+1. Project Title:
+   To-Do List Management System with Due Dates
+
+2. Introduction:
+   This project is a Python-based command-line application that helps users manage daily tasks by allowing them to add tasks with due dates, mark tasks as completed, view all tasks, filter pending tasks, and delete tasks. It demonstrates essential programming concepts such as loops, functions, lists, dictionaries, and date handling using the datetime module.
+
+3. Problem Statement:
+   Individuals often forget important tasks or deadlines due to the absence of a simple, lightweight task management tool. Existing apps can be complex or require internet access. Therefore, a simple offline To-Do List system is needed to help users organize and track tasks easily.
+
+4. Objective:
+   To design and implement a beginner-friendly, menu-driven task management application that allows users to manage tasks effectively using Python.
+
+5. Scope:
+   The scope includes adding tasks, setting due dates, viewing tasks, filtering pending tasks, marking tasks as complete, and deleting tasks. The project operates entirely in the command-line environment and stores tasks in memory.
+
+6. Functional Requirements:
+   - Add a new task with a due date.
+   - View all tasks with their status.
+   - View only pending tasks.
+   - Mark a task as completed.
+   - Delete a task from the list.
+   - Exit the application.
+
+7. Non-Functional Requirements:
+   - The system should be user-friendly and easy to navigate.
+   - Quick response time for all operations.
+   - Code should be maintainable and modular.
+   - Application should run on any device with Python installed.
+
+8. Tools & Technologies:
+   - Programming Language: Python 3
+   - Modules Used: datetime
+   - Platform: Command-Line Interface (CLI)
+
+9. System Overview:
+   The system is driven by a menu-based interface. User input determines which function is called (add, view, update, delete). All tasks are stored as dictionaries inside a list, along with their completion status and due date.
+
+10. Expected Output:
+    The program should display tasks with their status (Pending/Completed) and due dates, and should allow users to manage tasks interactively via numbered menu choices.
+
+11. Conclusion:
+    The To-Do List Application provides an effective way for users to track and manage daily tasks with due dates using Python. It is simple, efficient, and serves as an excellent learning project for beginners.
